@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.sus{
+    transition: 0.3 all ease;
+}
